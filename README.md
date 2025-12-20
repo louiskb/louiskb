@@ -8,4 +8,4 @@
 
 🌊 Passionate about using tech for marine conservation initiatives in the future.
 
-🚀 Always learning and building!
+🚀 Always learning and building! [📱 Learn more about me](https://louisbourne.me)
