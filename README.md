@@ -1,9 +1,7 @@
-👋 Hi, I’m Louis Bourne a full-stack Ruby on Rails developer with a background in trading, financial analysis, and marine biology.
+👋 Hi, I’m Louis a full-stack Ruby on Rails developer with a background in trading and financial analysis.
 
-💻 I love building clean, data-driven web applications with Rails, JavaScript, and modern frontend tooling.
+💻 I enjoy the process of designing and building web applications end-to-end and watching it come to life. 
 
 🌱 Currently freelancing, building personal projects to grow my portfolio, contributing to open-source, and diving into Vue.js + React + Next.js alongside Ruby on Rails.
-
-📊 Trading honed my skills in logic, data analysis, and building reliable systems.
 
 🚀 Always learning and building! [📱 Learn more about me](https://louisbourne.me)
